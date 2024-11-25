@@ -1,0 +1,25 @@
+# Git ignore file for c11_tasks
+
+# General ignores
+.DS_Store          # macOS system files
+Thumbs.db          # Windows system files
+.idea/             # JetBrains IDEs (e.g., PyCharm)
+.vscode/           # VS Code settings
+
+# Python ignores
+__pycache__/       # Python cache files
+*.pyc              # Compiled Python files
+*.pyo              # Compiled Python optimization files
+*.pyd              # Compiled Python files for Windows
+
+# Poetry ignores (specific to Exercise3 or any other Python project using Poetry)
+Exercise3/poetry.lock     # Lock file can be ignored if not strictly necessary
+Exercise3/.venv           # Local virtual environment (if using `poetry config virtualenvs.in-project true`)
+Exercise5/poetry.lock     # Lock file can be ignored if not strictly necessary
+Exercise5/.venv           # Local virtual environment (if using `poetry config virtualenvs.in-project true`)
+
+
+# OS-specific temporary files
+*.log              # Log files in any language
+*.bak              # Backup files
+*.swp              # Swap files (e.g., from Vim)

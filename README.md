@@ -2,7 +2,7 @@
 ![DeFi Research Lead](exercise5/images/fair_price_vs_trade_price.png)
 
 ## Overview
-This repository showcases my solutions to selected challenges from the C11 Labs Research Lead Assignment. The tasks focus on **algorithmic trading strategies**, spanning topics like **arbitrage detection**, **liquidity pool mechanics**, and **market-making algorithms**. The project highlights my structured approach to solving complex problems in decentralized finance (DeFi).
+This repository showcases my solutions to selected challenges from the [C11 Labs Research Lead Assignment](Assignement.pdf). The tasks focus on **algorithmic trading strategies**, spanning topics like **arbitrage detection**, **liquidity pool mechanics**, and **market-making algorithms**. The project highlights my structured approach to solving complex problems in decentralized finance (DeFi).
 
 ## Challenges Solved
 
